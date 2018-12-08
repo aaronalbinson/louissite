@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.header{
+ color: beige;
+    background: black;
+}
+
+.main{
+    background: yellow;
+    
+}
+
+.chillinacho .main {
+    background: red;
+}
